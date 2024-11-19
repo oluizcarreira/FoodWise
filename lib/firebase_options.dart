@@ -63,6 +63,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: '934346233555',
     projectId: 'foodwise-8d1d5',
     storageBucket: 'foodwise-8d1d5.firebasestorage.app',
-    iosBundleId: 'com.example.foodwise',
+    iosBundleId: 'com.foodwise.app',
   );
 }
